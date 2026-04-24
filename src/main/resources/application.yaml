@@ -42,3 +42,6 @@ springdoc:
   swagger-ui:
     path: /api/docs
     enabled: ${SPRINGDOC_SWAGGER_UI_ENABLED:true}
+
+jwt:
+  secret: ${JWT_SECRET:supersecretkey_changeinproduction_minimum256bits!!}
