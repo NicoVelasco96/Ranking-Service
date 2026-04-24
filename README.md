@@ -2,7 +2,7 @@
 
 Escoge tu idioma / Choose your language:
 
-<details open>
+<details>
 <summary><b>🇪🇸 Español</b></summary>
 
 ## Resumen
